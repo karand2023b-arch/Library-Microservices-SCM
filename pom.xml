@@ -1,0 +1,14 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0">
+    <modelVersion/4.0.0>
+    <groupId>com.library</groupId>
+    <artifactId>library-ecosystem</artifactId>
+    <version>1.0.0</version>
+    <packaging>pom</packaging>
+
+    <modules>
+        <module>api-gateway</module>
+        <module>book-service</module>
+        <module>user-service</module>
+        <module>issue-service</module>
+    </modules>
+</project>
